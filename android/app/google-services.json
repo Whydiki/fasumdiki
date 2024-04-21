@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900595641168",
+    "project_id": "fasumdiki-app",
+    "storage_bucket": "fasumdiki-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900595641168:android:e056fa7df45146acd75a55",
+        "android_client_info": {
+          "package_name": "com.example.fasum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAP-1f8pgcnEasS3LsvwEI2Ya54EpdLWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
