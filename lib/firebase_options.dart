@@ -46,6 +46,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '900595641168',
     projectId: 'fasumdiki-app',
     authDomain: 'fasumdiki-app.firebaseapp.com',
+    databaseURL: 'https://fasumdiki-app-default-rtdb.firebaseio.com',
     storageBucket: 'fasumdiki-app.appspot.com',
     measurementId: 'G-C0DV8NGHZ8',
   );
@@ -55,6 +56,7 @@ class DefaultFirebaseOptions {
     appId: '1:900595641168:android:e056fa7df45146acd75a55',
     messagingSenderId: '900595641168',
     projectId: 'fasumdiki-app',
+    databaseURL: 'https://fasumdiki-app-default-rtdb.firebaseio.com',
     storageBucket: 'fasumdiki-app.appspot.com',
   );
 
@@ -63,6 +65,7 @@ class DefaultFirebaseOptions {
     appId: '1:900595641168:ios:2dc9809e5b2f8291d75a55',
     messagingSenderId: '900595641168',
     projectId: 'fasumdiki-app',
+    databaseURL: 'https://fasumdiki-app-default-rtdb.firebaseio.com',
     storageBucket: 'fasumdiki-app.appspot.com',
     iosBundleId: 'com.example.fasum',
   );
@@ -72,6 +75,7 @@ class DefaultFirebaseOptions {
     appId: '1:900595641168:ios:2dc9809e5b2f8291d75a55',
     messagingSenderId: '900595641168',
     projectId: 'fasumdiki-app',
+    databaseURL: 'https://fasumdiki-app-default-rtdb.firebaseio.com',
     storageBucket: 'fasumdiki-app.appspot.com',
     iosBundleId: 'com.example.fasum',
   );
@@ -82,7 +86,9 @@ class DefaultFirebaseOptions {
     messagingSenderId: '900595641168',
     projectId: 'fasumdiki-app',
     authDomain: 'fasumdiki-app.firebaseapp.com',
+    databaseURL: 'https://fasumdiki-app-default-rtdb.firebaseio.com',
     storageBucket: 'fasumdiki-app.appspot.com',
     measurementId: 'G-BYKNGMTZBL',
   );
+
 }

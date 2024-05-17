@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "900595641168",
+    "firebase_url": "https://fasumdiki-app-default-rtdb.firebaseio.com",
     "project_id": "fasumdiki-app",
     "storage_bucket": "fasumdiki-app.appspot.com"
   },
